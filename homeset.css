@@ -1,0 +1,108 @@
+body {
+    font-family:inherit;
+    background: #fafafa;
+	clear: both;
+}
+
+label{
+	color:darkred;
+		   
+		   
+	   }
+
+
+#unreg{
+    
+    background-color:cornsilk;
+    
+}
+
+.note2{
+  color:darkgrey;  
+  margin-bottom: 20px;
+  background-color:#fff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+          box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+
+    
+}
+.note{
+/*  color:cornsilk;  */
+	color: #fff;
+  margin-bottom: 20px;
+  background-color:burlywood;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+          box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+
+    
+}
+
+p {
+    font-family:inherit;
+    font-size: 1.1em;
+    font-weight: 300;
+    line-height: 1.7em;
+    color: #999;
+}
+
+#screen{
+
+    padding: 10px;
+    
+}
+#verify{
+    
+ color:darkblue; 
+    
+}
+#verify label{
+    
+    color: darkred;
+}
+a, a:hover, a:focus {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+
+
+/* ---------------------------------------------------
+    SIDEBAR STYLE
+----------------------------------------------------- */
+.wrapper {
+    display: flex;
+    align-items: stretch;
+}
+#downlogo{
+	opacity: 0.3;
+}
+	
+.dframe{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    display:block;
+    border: none;
+    height:100%;
+    margin-bottom: 0;
+				
+}
+
+           
+#loading {
+    background: url('img/spinner.gif') no-repeat center center;
+    position: absolute;
+	clear: both;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 9999999;
+	opacity: 0.6;
+}

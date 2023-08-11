@@ -1,0 +1,78 @@
+@charset "utf-8";
+body {
+	background-color:white;
+	margin: 0;
+    padding: 0;
+	height: 1300px;
+}
+
+#mainhost {
+	background-image: url(../img/bg.jpg)!important;
+	clear: both;
+	height: 1200px;
+	width: 1000px;
+    background-repeat:no-repeat;
+    background-size: auto;
+
+
+}
+
+#mainhost2 {
+	
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:15px;
+	color:#000;
+    
+
+}
+
+#period {
+	width:1000px;
+	height:300px;
+	/*background-color: #FF9;*/
+	/*opacity: 0.3;*/		
+}
+#tpinfo{
+	width:1000px;
+	height:150px;
+	/*background-color: #FF9;
+	opacity: 0.3;	*/	
+	
+}
+#officeinfo{
+	
+width:1000px;
+	height:200px;
+	/*background-color: #FF9;
+	opacity: 0.3;*/			
+	
+}
+#taxcomp{
+width:1000px;
+	height:550px;
+	/*background-color: #FF9;
+	opacity: 0.3;		
+*/
+
+
+}
+
+
+
+
+
+b{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#F00;
+	
+}
+
+#txt{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:15px;
+	color:#000;
+	font-weight: bold; 
+	
+}
+
